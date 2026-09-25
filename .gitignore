@@ -1,0 +1,34 @@
+# Virtual environments
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# macOS
+.DS_Store
+
+# Browser/session state
+5ka_storage_state*.json
+
+# Local database
+data/*.sqlite
+data/*.sqlite-shm
+data/*.sqlite-wal
+
+# Generated exports
+exports/*.csv
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
