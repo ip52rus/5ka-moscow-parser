@@ -4,6 +4,7 @@
 ![SQLite](https://img.shields.io/badge/SQLite-3-003B57?logo=sqlite&logoColor=white)
 ![Camoufox](https://img.shields.io/badge/Browser-Camoufox-4B5563)
 ![asyncio](https://img.shields.io/badge/asyncio-asynchronous-6B7280)
+![PyCharm](https://img.shields.io/badge/PyCharm-IDE-000000?logo=pycharm&logoColor=white)
 
 Исследовательский Python-проект для сбора и структурирования публичных данных магазинов сети «Пятёрочка» в Москве: магазины, категории, товары, цены, наличие, промо-механики и расширенные карточки товаров.
 
