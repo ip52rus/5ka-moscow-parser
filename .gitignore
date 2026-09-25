@@ -17,13 +17,14 @@ __pycache__/
 # Browser/session state
 5ka_storage_state*.json
 
-# Local database
-data/*.sqlite
-data/*.sqlite-shm
-data/*.sqlite-wal
+# Local data
+data/
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
 
 # Generated exports
-exports/*.csv
+exports/
 
 # Environment / secrets
 .env
